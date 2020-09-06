@@ -1,0 +1,10 @@
+{
+  "name": "@danielc7150/config",
+  "version": "1.0.0",
+  "description": "Shared config to reduce setting up time of new projects",
+  "keywords": [
+    "config"
+  ],
+  "author": "Daniel Cornock",
+  "license": "ISC"
+}

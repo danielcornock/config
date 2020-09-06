@@ -1,0 +1,13 @@
+{
+  "moduleFileExtensions": ["json", "ts", "js"],
+  "rootDir": "modules",
+  "modulePaths": ["<rootDir>"],
+  "testRegex": ".spec.ts$",
+  "transform": {
+    "^.+\\.(t|j)s$": "ts-jest"
+  },
+  "coveragePathIgnorePatterns": [".stub.ts"],
+  "coverageDirectory": "./coverage",
+  "testEnvironment": "node",
+  "autoMock": true
+}
